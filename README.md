@@ -1,16 +1,131 @@
-# React + Vite
+````md
+# Employee Management System (EMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Employee Management System built using React, Vite, and Tailwind CSS. The application provides separate dashboards for administrators and employees, allowing efficient employee and task management through a clean and responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+### Admin
+- Secure login
+- Admin dashboard
+- View all employees
+- Assign tasks
+- Manage employee records
+- Monitor employee status
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Employee
+- Secure login
+- Employee dashboard
+- View assigned tasks
+- Update task status
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+
+---
+
+## Preview
+
+### Login Page
+
+<img width="1600" height="900" alt="login_page" src="https://github.com/user-attachments/assets/b874dc06-fa5e-433c-968e-9fcfcaedbdb9" />
+
+### Admin Dashboard
+
+<img width="1600" height="900" alt="admin_dashboard" src="https://github.com/user-attachments/assets/0115578b-c102-4b14-bd68-967504065373" />
+
+
+### Employee Dashboard
+
+<img width="1600" height="900" alt="employee_dashboard" src="https://github.com/user-attachments/assets/82741b99-4c17-4120-9c13-8f14c987986b" />
+
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+````
+
+Navigate to the project directory
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## Test Credentials
+
+### Admin
+
+| Email                               | Password |
+| ----------------------------------- | -------- |
+| [admin@me.com](mailto:admin@me.com) | 123      |
+
+### Employees
+
+| Name  | Email                                                 | Password |
+| ----- | ----------------------------------------------------- | -------- |
+| Arjun | [e@e.com](mailto:e@e.com)                             | 123      |
+| Sneha | [employee2@example.com](mailto:employee2@example.com) | 123      |
+| Ravi  | [employee3@example.com](mailto:employee3@example.com) | 123      |
+| Priya | [employee4@example.com](mailto:employee4@example.com) | 123      |
+| Karan | [employee5@example.com](mailto:employee5@example.com) | 123      |
+
+---
+
+## Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+├── context/
+├── pages/
+├── utils/
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## Future Improvements
+
+* Backend integration
+* Database support
+* Attendance management
+* Leave management
+* Search and filtering
+* Role-based access control
+* Dark mode
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+```
