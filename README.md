@@ -44,7 +44,8 @@ A modern Employee Management System built using React, Vite, and Tailwind CSS. T
 
 ### Employee Dashboard
 
-<img width="1600" height="900" alt="login_page" src="https://github.com/user-attachments/assets/df3e2fb9-cfec-4511-bbae-d88d694cfc95" />
+<img width="1600" height="900" alt="employee_dashboard" src="https://github.com/user-attachments/assets/0406d846-aced-4164-b026-0ed926c4dc57" />
+
 
 
 
