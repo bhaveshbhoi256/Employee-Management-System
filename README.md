@@ -1,4 +1,3 @@
-````md
 # Employee Management System (EMS)
 
 A modern Employee Management System built using React, Vite, and Tailwind CSS. The application provides separate dashboards for administrators and employees, allowing efficient employee and task management through a clean and responsive interface.
@@ -35,7 +34,8 @@ A modern Employee Management System built using React, Vite, and Tailwind CSS. T
 
 ### Login Page
 
-<img width="1600" height="900" alt="login_page" src="https://github.com/user-attachments/assets/b874dc06-fa5e-433c-968e-9fcfcaedbdb9" />
+<img width="1600" height="900" alt="login_page" src="https://github.com/user-attachments/assets/ea99c038-d970-4dd3-a5a9-b450f3aefacb" />
+
 
 ### Admin Dashboard
 
@@ -44,7 +44,8 @@ A modern Employee Management System built using React, Vite, and Tailwind CSS. T
 
 ### Employee Dashboard
 
-<img width="1600" height="900" alt="employee_dashboard" src="https://github.com/user-attachments/assets/82741b99-4c17-4120-9c13-8f14c987986b" />
+<img width="1600" height="900" alt="login_page" src="https://github.com/user-attachments/assets/df3e2fb9-cfec-4511-bbae-d88d694cfc95" />
+
 
 
 ---
